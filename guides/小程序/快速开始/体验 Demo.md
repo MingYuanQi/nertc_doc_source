@@ -1,0 +1,1 @@
+该文档已废弃，如需获取源码请点击[资源下载](https://doc.yunxin.163.com/nertc/resource?platform=all)。

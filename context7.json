@@ -1,0 +1,25 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "NERTC SDK",
+  "description": "NetEase Real-Time Communication SDK - Comprehensive guides for integrating audio/video communication into your applications across multiple platforms",
+  "folders": [
+    "guides/"
+  ],
+  "excludeFolders": [
+    ".claude",
+    "node_modules",
+    ".git"
+  ],
+  "rules": [
+    "NERTC SDK supports 14+ platforms including Android, iOS, Web, Windows, macOS, Linux, Unity, Unreal Engine, Flutter, Electron, HarmonyOS, and more",
+    "Each platform has its own integration guide under guides/[Platform]/ directory",
+    "Always check the platform-specific Quick Start guide first: guides/[Platform]/快速开始/",
+    "SDK supports both audio-only and audio-video modes - check integration requirements for each",
+    "AI features (noise reduction, super resolution, virtual background) require specific SDK versions and may have platform limitations",
+    "For production use, always implement proper error handling and connection state management",
+    "Refer to platform-specific Best Practices section for optimization recommendations",
+    "Cross-platform features may have different API names - check platform-specific documentation",
+    "When implementing custom audio/video capture, ensure proper device permission handling",
+    "For multi-room scenarios, check if the platform supports the multi-room management feature"
+  ]
+}
