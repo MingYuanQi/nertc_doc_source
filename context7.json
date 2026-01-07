@@ -1,5 +1,7 @@
 {
   "$schema": "https://context7.com/schema/context7.json",
+  "url": "https://context7.com/netease-kit/nertc_doc_source",
+  "public_key": "pk_Scmz3s7Jwm3QjyVBrqHUI"
   "projectTitle": "NERTC SDK",
   "description": "NetEase Real-Time Communication SDK - Comprehensive guides for integrating audio/video communication into your applications across multiple platforms",
   "folders": [
@@ -23,3 +25,4 @@
     "For multi-room scenarios, check if the platform supports the multi-room management feature"
   ]
 }
+
